@@ -1,2 +1,2 @@
-# UIP
+# UIPs
 Universal Improvement Proposals
